@@ -1,4 +1,4 @@
-package com.CaioSchuengue.br.entities;
+package com.Caioschuengue.br.entities;
 
 public class Usuario {
 	//atributos
