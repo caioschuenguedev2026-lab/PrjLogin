@@ -1,4 +1,4 @@
-package com.henrique.br.controller;
+package com.Caioschuengue.br.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.henrique.br.entities.Usuario;
-import com.henrique.br.service.LoginService;
+import com.Caioschuengue.br.entities.Usuario;
+import com.Caioschuengue.br.service.LoginService;
 @RestController
 @RequestMapping("/login")
 public class LoginController {
