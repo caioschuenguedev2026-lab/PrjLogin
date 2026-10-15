@@ -1,8 +1,8 @@
-package com.henrique.br.service;
+package com.Caio.br.service;
 
 import org.springframework.stereotype.Service;
 
-import com.henrique.br.entities.Usuario;
+import com.Caio.br.entities.Usuario;
 @Service
 public class LoginService {
 	
