@@ -1,4 +1,4 @@
-package com.Caio.br.service;
+package com.Caioschuengue.br.service;
 
 import org.springframework.stereotype.Service;
 
